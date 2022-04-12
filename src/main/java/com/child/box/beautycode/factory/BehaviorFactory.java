@@ -1,4 +1,4 @@
-package com.child.box.beautycode;
+package com.child.box.beautycode.factory;
 
 import org.reflections.Reflections;
 

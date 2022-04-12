@@ -1,4 +1,4 @@
-package com.child.box.beautycode;
+package com.child.box.beautycode.factory;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.child.box.beautycode.Decorator;
+package com.child.box.beautycode.decorator;
 
 public class UserMsg implements Ilog{
 
